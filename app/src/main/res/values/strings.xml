@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Pix Bet</string>
+
+    <string name="settings_description">Настройки</string>
+    <string name="exit_description">Выход</string>
+    <string name="first_level_img_desc">Первая картинка</string>
+    <string name="answer_var_img">Картинка-ответ</string>
+    <string name="second_level_button_text">Ответить</string>
+
+    <string name="first_level">1-ый Уровень</string>
+    <string name="second_level">2-ой Уровень</string>
+    <string name="third_level">3-ий Уровень</string>
+    <string name="fourth_level">4ый Уровень</string>
+    <string name="info_screen_title">Информация</string>
+
+    <string name="select_volume_text">Выберите громкость</string>
+    <string name="easy">Easy</string>
+    <string name="normal">Normal</string>
+    <string name="hard">Hard</string>
+
+    <string name="select_music_text">Выберите мелодию</string>
+    <string name="classic">Classic</string>
+    <string name="rock">Rock</string>
+    <string name="pop">Pop</string>
+
+    <string name="first_rule">1. Correção e respeito: todos os participantes devem mostrar respeito pelos outros participantes, perguntas e opiniões. Insultos, comentários inapropriados e comportamento inaceitável não são permitidos.</string>
+    <string name="second_rule">2. Uma resposta para uma pergunta: cada participante tem a oportunidade de dar apenas uma resposta para cada pergunta. Isso ajuda a manter condições iguais para todos os participantes e possibilita obter as mais diversas respostas.</string>
+    <string name="third_rule">3. Justificativa da resposta: ao responder a pergunta, os participantes devem fornecer uma justificativa para sua escolha ou opinião. Isso ajuda a criar uma discussão e permite entender melhor a motivação de cada participante.</string>
+    <string name="fourth_rule">4. Restrições de tempo: os participantes devem responder às perguntas dentro de um prazo definido para garantir a suavidade e o ritmo do questionário. As restrições de tempo também ajudam a manter um equilíbrio entre as respostas e a levar o questionário adiante.</string>
+    <string name="fifth_rule">5. Proibição de plágio e cópia: os participantes não devem copiar ou usar respostas ou ideias de outras pessoas. Todas as respostas devem ser originais e refletir a opinião pessoal de cada participante.</string>
+
+</resources>
